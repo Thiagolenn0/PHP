@@ -6,7 +6,7 @@
 <BODY>
 <?php
   $idade=16;
-  $nome="aluno do Marly";
+  $nome="Thiago";
   echo " Olá meu nome é:", $nome, "<br>Minha idade é:",$idade;
 ?>
 </BODY>
