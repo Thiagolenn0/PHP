@@ -10,7 +10,7 @@ $b="ao curso";
 $c="de informatica";
 $d=$a.$b.$c.="da disciplina de php<br>";
 echo $d;
-$a .="aluno";
+$a .="Thiago";
 echo $a;
 ?>
 </body>
