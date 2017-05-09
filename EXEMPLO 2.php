@@ -1,6 +1,6 @@
 <html>
 <head>
- <title>EXEMPLO 2</title>
+ <meta charset="utf-8"/>
 </head>
 <BODY>
 <?php
